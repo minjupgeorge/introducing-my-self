@@ -34,3 +34,18 @@ Now my family is at Kochi(Queen of Arabian Sea),the most beautiful place I have 
 - [gmail](minjupgeorge@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/minju-george-aabb96159/)
 - [instagram](https://www.instagram.com/minju_jov/)
+
+Table
+
+| Name | Nationality | Place of stay | Favorite Movie | Fact | Favorite Hobby|
+| :----:  | :----: | :----: | :----:  | :----: | :----: | 
+| Andrii Vlasiuk| | | | | | |
+| Ali| | | | | | 
+| Cristobal Lopez| El Salvador | Brugge | Avatar | I have trypophobia | I love trance and metal music| 
+| Elias| | |  | | | 
+| Hadoan| Vietnamese | Leuven | Belfast| I love Bread| Singing and reading comics| 
+| Inna|  | Brussels | | | | |
+| MinjuPGeorge| Indian | Brussels | Fashion | Crazy about Chocolates | Indoor gardening| 
+| RicardoPena | El Salvador | Antwerp |The pianist |  I have 7 tattoos| Cooking | 
+| Swapna| Indian | Brussels| | | |  
+
